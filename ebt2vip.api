@@ -6,7 +6,7 @@
          
          "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "false",
+         "status" : "waiting",
          
          "ht": "Fulham",
          
@@ -24,7 +24,7 @@
          
          "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "false",
+         "status" : "correct",
          
          "ht": "Roma",
          
@@ -60,7 +60,7 @@
          
          "dateAndTime" : "Jan 12, 2023 | 11:30 PM",
          
-         "status" : "false",
+         "status" : "waiting",
          
          "ht": "Fiorentina",
          
