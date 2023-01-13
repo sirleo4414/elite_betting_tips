@@ -4,9 +4,9 @@
        {
          "league" : "England : Premier League",
          
-         "dateAndTime" : "Jan 12, 2023 | 2:30 AM",
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "Waiting",
+         "status" : "false",
          
          "ht": "Fulham",
          
@@ -22,9 +22,9 @@
      {
          "league" : "Itlay : Coppa Itlia",
          
-         "dateAndTime" : "Jan 12, 2023 | 2:30 AM",
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "Waiting",
+         "status" : "false",
          
          "ht": "Roma",
          
@@ -40,9 +40,9 @@
        {
          "league" : "Netherlands : KNVB Beker",
          
-         "dateAndTime" : "Jan 12, 2023 | 2:30 AM",
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "Waiting",
+         "status" : "false",
          
          "ht": "Feyenoord",
          
@@ -50,9 +50,27 @@
          
          "at" : "PEC Zwolle",
          
-         "tip" : "Total Under(3)",
+         "tip" : "Total Under (3)",
          
          "odd" : "Odds : 2.19"
+      },
+      
+      {
+         "league" : "Itlay : Coppa Itlia",
+         
+         "dateAndTime" : "Jan 12, 2023 | 11:30 PM",
+         
+         "status" : "false",
+         
+         "ht": "Fiorentina",
+         
+         "score" : "VS",
+         
+         "at" : "Sampdoria",
+         
+         "tip" : "Total Over (3)",
+         
+         "odd" : "Odds : 2.49"
       }
     
    ]
