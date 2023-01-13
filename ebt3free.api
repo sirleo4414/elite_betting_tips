@@ -1,0 +1,77 @@
+{
+  "viptips" : [
+  
+       {
+         "league" : "England : Premier League",
+         
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
+         
+         "status" : "false",
+         
+         "ht": "Fulham",
+         
+         "score" : "VS",
+         
+         "at" : "Chelsea",
+         
+         "tip" : "Chelsea Win",
+         
+         "odd" : "Odds : 2.14"
+     },
+    
+     {
+         "league" : "Itlay : Coppa Itlia",
+         
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
+         
+         "status" : "false",
+         
+         "ht": "Roma",
+         
+         "score" : "VS",
+         
+         "at" : "Genoa",
+         
+         "tip" : "Genoa Win or Draw",
+         
+         "odd" : "Odds : 2.52"
+      },
+      
+       {
+         "league" : "Netherlands : KNVB Beker",
+         
+         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
+         
+         "status" : "false",
+         
+         "ht": "Feyenoord",
+         
+         "score" : "VS",
+         
+         "at" : "PEC Zwolle",
+         
+         "tip" : "Total Under (3)",
+         
+         "odd" : "Odds : 2.19"
+      },
+      
+      {
+         "league" : "Itlay : Coppa Itlia",
+         
+         "dateAndTime" : "Jan 12, 2023 | 11:30 PM",
+         
+         "status" : "false",
+         
+         "ht": "Fiorentina",
+         
+         "score" : "VS",
+         
+         "at" : "Sampdoria",
+         
+         "tip" : "Total Over (3)",
+         
+         "odd" : "Odds : 2.49"
+      }
+    
+   ]
+}
