@@ -10,11 +10,11 @@
          
          "ht": "Fulham",
          
-         "score" : "VS",
+         "score" : "2 : 1",
          
          "at" : "Chelsea",
          
-         "tip" : "Chelsea Win",
+         "tip" : "FT-2",
          
          "odd" : "Odds : 2.14"
      },
@@ -28,11 +28,11 @@
          
          "ht": "Roma",
          
-         "score" : "VS",
+         "score" : "1 : 0",
          
          "at" : "Genoa",
          
-         "tip" : "Genoa Win or Draw",
+         "tip" : "FT-2X",
          
          "odd" : "Odds : 2.52"
       },
@@ -46,7 +46,7 @@
          
          "ht": "Feyenoord",
          
-         "score" : "VS",
+         "score" : "3 : 1",
          
          "at" : "PEC Zwolle",
          
@@ -64,7 +64,7 @@
          
          "ht": "Fiorentina",
          
-         "score" : "VS",
+         "score" : "1 : 0",
          
          "at" : "Sampdoria",
          
