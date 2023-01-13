@@ -2,76 +2,22 @@
   "viptips" : [
   
        {
-         "league" : "England : Premier League",
+         "league" : "Qatar : Stars League",
          
-         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
-         
-         "status" : "waiting",
-         
-         "ht": "Fulham",
-         
-         "score" : "VS",
-         
-         "at" : "Chelsea",
-         
-         "tip" : "FT-2",
-         
-         "odd" : "Odds : 2.14"
-     },
-    
-     {
-         "league" : "Itlay : Coppa Itlia",
-         
-         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
+         "dateAndTime" : "Jan 12, 2023 | 7:45 PM",
          
          "status" : "correct",
          
-         "ht": "Roma",
+         "ht": "Al-Sailiya",
          
-         "score" : "1 : 0",
+         "score" : "1 : 2",
          
-         "at" : "Genoa",
+         "at" : "Al-Ahli",
          
-         "tip" : "FT-2X",
+         "tip" : "Total Over (2.5)",
          
-         "odd" : "Odds : 2.52"
-      },
-      
-       {
-         "league" : "Netherlands : KNVB Beker",
-         
-         "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
-         
-         "status" : "false",
-         
-         "ht": "Feyenoord",
-         
-         "score" : "3 : 1",
-         
-         "at" : "PEC Zwolle",
-         
-         "tip" : "Total Under (3)",
-         
-         "odd" : "Odds : 2.19"
-      },
-      
-      {
-         "league" : "Itlay : Coppa Itlia",
-         
-         "dateAndTime" : "Jan 12, 2023 | 11:30 PM",
-         
-         "status" : "waiting",
-         
-         "ht": "Fiorentina",
-         
-         "score" : "VS",
-         
-         "at" : "Sampdoria",
-         
-         "tip" : "Total Over (3)",
-         
-         "odd" : "Odds : 2.49"
-      }
+         "odd" : "Odds : 2.5"
+     }
     
    ]
 }
