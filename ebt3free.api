@@ -1,16 +1,34 @@
 {
   "viptips" : [
-  
+        
         {
          "league" : "England : Premier League",
          
+         "dateAndTime" : "Jan 14, 2023 | 2:30 AM",
+         
+         "status" : "draw",
+         
+         "ht": "Aston Villa",
+         
+         "score" : "2 : 1",
+         
+         "at" : "Thailand",
+         
+         "tip" : "Total Over (3)",
+         
+         "odd" : "Odds : 2.24"
+     },
+  
+        {
+         "league" : "AFF Suzuki Cup",
+         
          "dateAndTime" : "Jan 13, 2023 | 7:00 PM",
          
-         "status" : "waiting",
+         "status" : "draw",
          
          "ht": "Vietnam",
          
-         "score" : "VS",
+         "score" : "2 : 2",
          
          "at" : "Thailand",
          
@@ -25,11 +43,11 @@
          
          "dateAndTime" : "Jan 14, 2023 | 2:15 AM",
          
-         "status" : "waiting",
+         "status" : "lose",
          
          "ht": "Napoli",
          
-         "score" : "VS",
+         "score" : "5 : 1",
          
          "at" : "Juventus",
          
@@ -43,7 +61,7 @@
          
          "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "false",
+         "status" : "lose",
          
          "ht": "Fulham",
          
@@ -61,7 +79,7 @@
          
          "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "false",
+         "status" : "lose",
          
          "ht": "Roma",
          
@@ -79,7 +97,7 @@
          
          "dateAndTime" : "Jan 13, 2023 | 2:30 AM",
          
-         "status" : "false",
+         "status" : "lose",
          
          "ht": "Feyenoord",
          
@@ -97,7 +115,7 @@
          
          "dateAndTime" : "Jan 12, 2023 | 11:30 PM",
          
-         "status" : "false",
+         "status" : "lose",
          
          "ht": "Fiorentina",
          
