@@ -1,6 +1,24 @@
 {
   "viptips" : [
   
+      {
+         "league" : "Turkey : Super Liga",
+         
+         "dateAndTime" : "Jan 13, 2023 | 10:30 PM",
+         
+         "status" : "correct",
+         
+         "ht": "Galatasary",
+         
+         "score" : "4 : 0",
+         
+         "at" : "Hatayspor",
+         
+         "tip" : "Galatasary",
+         
+         "odd" : ""
+     },
+  
        {
          "league" : "Qatar : Stars League",
          
